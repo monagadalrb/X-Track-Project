@@ -1,0 +1,7 @@
+C:\Users\MonaG\Downloads\git- projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\MonaG\Downloads\git- projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\MonaG\Downloads\git- projects\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\MonaG\Downloads\git- projects\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\MonaG\Downloads\git- projects\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\MonaG\Downloads\git- projects\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\MonaG\Downloads\git- projects\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
